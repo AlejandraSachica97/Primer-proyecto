@@ -1,4 +1,5 @@
 class Persona:
+    #Trabajo 
     def __init__(self, nombre, apellido, fn):
         self.nombre = nombre
         self.apellido = apellido
